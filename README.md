@@ -16,15 +16,6 @@ To develop a RAG-based AI solution that can:
 
 ---
 
-📊 Dataset Description  
-File: `medical_diagnosis_manual.pdf`  
-
-| Column / Content | Description |
-|-----------------|-------------|
-| Merck Manuals PDF | A comprehensive medical reference containing over 4,000 pages across 23 sections, covering disorders, tests, diagnoses, drugs, and treatment protocols. |
-
----
-
 🧠 Key Analysis Performed  
 - Data loading and text extraction from PDF manuals.  
 - Preprocessing and segmentation of medical content.  
